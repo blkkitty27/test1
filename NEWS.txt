@@ -3,6 +3,7 @@ Python News
 +++++++++++
 
 What's New in Python 3.10.10 final?
+??? not much i dont think... wait
 ===================================
 
 *Release date: 2023-02-07*
